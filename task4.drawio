@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="Viy7vJKoXqJCz_s89C-m">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="flyjqjC4dK-qqM7biamB-3" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户注册登录" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-5" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="申领任务" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-7" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理员初审" vertex="1">
+          <mxGeometry height="40" width="120" x="400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-9" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户提交成果" vertex="1">
+          <mxGeometry height="40" width="120" x="600" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-14" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理员最终审核" vertex="1">
+          <mxGeometry height="40" width="120" x="790" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-15" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="flyjqjC4dK-qqM7biamB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-16" connectable="0" parent="flyjqjC4dK-qqM7biamB-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.416" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-22" edge="1" parent="1" source="flyjqjC4dK-qqM7biamB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flyjqjC4dK-qqM7biamB-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否审核通过" vertex="1">
+          <mxGeometry height="80" width="80" x="810" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="flyjqjC4dK-qqM7biamB-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户收款" vertex="1">
+          <mxGeometry height="40" width="120" x="931" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
