@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="第 1 页" id="hD5qtAZEq2Xenld3WcP9">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8v_BJczI1D8t4PM2osco-4" edge="1" parent="1" source="8v_BJczI1D8t4PM2osco-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8v_BJczI1D8t4PM2osco-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8v_BJczI1D8t4PM2osco-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="进入小程序" vertex="1">
+          <mxGeometry height="40" width="70" x="193" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8v_BJczI1D8t4PM2osco-6" edge="1" parent="1" source="8v_BJczI1D8t4PM2osco-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8v_BJczI1D8t4PM2osco-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8v_BJczI1D8t4PM2osco-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="进入任务列表" vertex="1">
+          <mxGeometry height="40" width="87" x="347" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8v_BJczI1D8t4PM2osco-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查看任务详情" vertex="1">
+          <mxGeometry height="40" width="87" x="510" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
