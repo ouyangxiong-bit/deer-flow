@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="QvKGAe7jhTmK_WsmVQaD">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-1" edge="1" parent="1" source="2UtrmoHGBGq1eTHBdbKZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="2UtrmoHGBGq1eTHBdbKZ-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="进入小程序" vertex="1">
+          <mxGeometry height="40" width="70" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-3" edge="1" parent="1" source="2UtrmoHGBGq1eTHBdbKZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="2UtrmoHGBGq1eTHBdbKZ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="进入我的" vertex="1">
+          <mxGeometry height="40" width="87" x="183" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-5" edge="1" parent="1" source="2UtrmoHGBGq1eTHBdbKZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="2UtrmoHGBGq1eTHBdbKZ-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击执行中的任务" vertex="1">
+          <mxGeometry height="40" width="87" x="324" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-7" edge="1" parent="1" source="2UtrmoHGBGq1eTHBdbKZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="2UtrmoHGBGq1eTHBdbKZ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="进行任务详情" vertex="1">
+          <mxGeometry height="40" width="87" x="465" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2UtrmoHGBGq1eTHBdbKZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="填写内容提交任务" vertex="1">
+          <mxGeometry height="40" width="87" x="606" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
