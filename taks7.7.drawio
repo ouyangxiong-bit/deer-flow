@@ -4,67 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-3" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BRyVehOKPuqxf7F-ki6Z-2" value="">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-3" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="进入系统设置" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="进入系统设置" vertex="1">
           <mxGeometry height="30" width="80" x="30" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-5" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BRyVehOKPuqxf7F-ki6Z-4" value="">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-5" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-9" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-8">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-9" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-17" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-16">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-17" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选择系统模块" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="选择系统模块" vertex="1">
           <mxGeometry height="30" width="80" x="190" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-7" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BRyVehOKPuqxf7F-ki6Z-6" value="">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-7" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置参数" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="设置参数" vertex="1">
           <mxGeometry height="30" width="50" x="350" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="登录规则" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="登录规则" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-11" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BRyVehOKPuqxf7F-ki6Z-10" value="">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-11" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-14" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-12">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-14" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-15" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-13">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-15" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户管理" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="用户管理" vertex="1">
           <mxGeometry height="30" width="50" x="350" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="修改用户" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="修改用户" vertex="1">
           <mxGeometry height="30" width="50" x="480" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="添加用户" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="添加用户" vertex="1">
           <mxGeometry height="30" width="50" x="480" y="38" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="权限设置" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="权限设置" vertex="1">
           <mxGeometry height="30" width="50" x="480" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-21" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-18">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-21" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-22" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BRyVehOKPuqxf7F-ki6Z-19">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-22" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据存储" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="数据存储" vertex="1">
           <mxGeometry height="30" width="50" x="350" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="备份频率" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="备份频率" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="储存路径" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="储存路径" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="290" as="geometry" />
         </mxCell>
       </root>
