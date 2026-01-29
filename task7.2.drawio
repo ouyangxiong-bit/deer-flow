@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F_bj4OIOh-2j5NBR432l-1" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F_bj4OIOh-2j5NBR432l-4" value="">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-1" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="进入小程序" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="进入小程序" vertex="1">
           <mxGeometry height="40" width="70" x="93" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-3" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F_bj4OIOh-2j5NBR432l-5" value="">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-3" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="进入任务列表" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="进入任务列表" vertex="1">
           <mxGeometry height="40" width="87" x="226" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-7" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F_bj4OIOh-2j5NBR432l-6" value="">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-7" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查看任务详情" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="查看任务详情" vertex="1">
           <mxGeometry height="40" width="87" x="367" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-9" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F_bj4OIOh-2j5NBR432l-8" value="">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-9" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="点击申请任务按钮" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击申请任务按钮" vertex="1">
           <mxGeometry height="40" width="87" x="508" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="填写内容提交" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="填写内容提交" vertex="1">
           <mxGeometry height="40" width="87" x="649" y="210" as="geometry" />
         </mxCell>
       </root>
