@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="uwNzIxlwGElRSxkI7kXD">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,10 +25,10 @@
         <mxCell id="BRyVehOKPuqxf7F-ki6Z-7" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="设置参数" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="数据权限设置" vertex="1">
           <mxGeometry height="30" width="50" x="350" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="BRyVehOKPuqxf7F-ki6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="登录规则" vertex="1">
+        <mxCell id="BRyVehOKPuqxf7F-ki6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" value="数据权限维护" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="170" as="geometry" />
         </mxCell>
         <mxCell id="BRyVehOKPuqxf7F-ki6Z-11" edge="1" parent="1" source="BRyVehOKPuqxf7F-ki6Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" target="BRyVehOKPuqxf7F-ki6Z-10" value="">
