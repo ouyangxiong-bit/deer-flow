@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="pgQEQa3xkPmcq2-uwwRE">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,19 +43,19 @@
         <mxCell id="ECNssIZCG4VuPiW86Hej-17" edge="1" parent="1" source="ECNssIZCG4VuPiW86Hej-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ECNssIZCG4VuPiW86Hej-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ECNssIZCG4VuPiW86Hej-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击我的任务" vertex="1">
+        <mxCell id="ECNssIZCG4VuPiW86Hej-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击银行卡变更" vertex="1">
           <mxGeometry height="40" width="87" x="310" y="360" as="geometry" />
         </mxCell>
         <mxCell id="ECNssIZCG4VuPiW86Hej-22" edge="1" parent="1" source="ECNssIZCG4VuPiW86Hej-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ECNssIZCG4VuPiW86Hej-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ECNssIZCG4VuPiW86Hej-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="管理我的任务" vertex="1">
+        <mxCell id="ECNssIZCG4VuPiW86Hej-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="维护我的银行卡" vertex="1">
           <mxGeometry height="40" width="87" x="480" y="360" as="geometry" />
         </mxCell>
         <mxCell id="ECNssIZCG4VuPiW86Hej-24" edge="1" parent="1" source="ECNssIZCG4VuPiW86Hej-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ECNssIZCG4VuPiW86Hej-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ECNssIZCG4VuPiW86Hej-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="查看我的个人收益" vertex="1">
+        <mxCell id="ECNssIZCG4VuPiW86Hej-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="查看我的援助金额" vertex="1">
           <mxGeometry height="40" width="87" x="311" y="460" as="geometry" />
         </mxCell>
         <mxCell id="ECNssIZCG4VuPiW86Hej-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="完成操作" vertex="1">
