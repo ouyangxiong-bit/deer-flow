@@ -19,13 +19,13 @@
         <mxCell id="F_bj4OIOh-2j5NBR432l-7" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击项目援助申请按钮" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="点击项目入组申请按钮" vertex="1">
           <mxGeometry height="40" width="87" x="367" y="210" as="geometry" />
         </mxCell>
         <mxCell id="F_bj4OIOh-2j5NBR432l-9" edge="1" parent="1" source="F_bj4OIOh-2j5NBR432l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" target="F_bj4OIOh-2j5NBR432l-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_bj4OIOh-2j5NBR432l-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="填写援助申请表单" vertex="1">
+        <mxCell id="F_bj4OIOh-2j5NBR432l-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="填写入组申请表单" vertex="1">
           <mxGeometry height="40" width="87" x="508" y="210" as="geometry" />
         </mxCell>
         <mxCell id="F_bj4OIOh-2j5NBR432l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="提交" vertex="1">
