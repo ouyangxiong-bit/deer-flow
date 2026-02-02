@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="HGEKktZ79PZZS9XjDPMG">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-3" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户注册登录" vertex="1">
+          <mxGeometry height="40" width="100" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-5" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="入组申请" vertex="1">
+          <mxGeometry height="40" width="80" x="212" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-9" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="是否提交" vertex="1">
+          <mxGeometry height="80" width="80" x="383" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-6" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="Onnzf6ZSj-5v0AN1bgW5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-11" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="管理员审核通过" vertex="1">
+          <mxGeometry height="39" width="100" x="545" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-13" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="援助申请" vertex="1">
+          <mxGeometry height="39" width="100" x="717" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-15" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Onnzf6ZSj-5v0AN1bgW5-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-16" edge="1" parent="1" source="Onnzf6ZSj-5v0AN1bgW5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Onnzf6ZSj-5v0AN1bgW5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="是否审核通过" vertex="1">
+          <mxGeometry height="80" width="80" x="898" y="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Onnzf6ZSj-5v0AN1bgW5-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="发放援助金额" vertex="1">
+          <mxGeometry height="40.5" width="120" x="1050" y="121" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
